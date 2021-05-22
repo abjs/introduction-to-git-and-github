@@ -1,7 +1,0 @@
-init
-add 
-commit 
-add .
-status
-log
-
