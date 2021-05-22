@@ -4,4 +4,4 @@ commit
 add .
 status
 log
-new
+
